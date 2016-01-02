@@ -1,5 +1,5 @@
 # BayesianFuzzyClustering
-Matlab implementation of the Bayesian Fuzzy Clustering algorithms.  See related paper, doi: 10.1109/TFUZZ.2014.2370676
+Matlab implementation of the Bayesian Fuzzy Clustering algorithms.  See related paper, doi: 10.1109/TFUZZ.2014.2370676, http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6955803
 
 ***
 NOTE: If Bayesian Fuzzy Clustering is used in any publication or presentation, the following reference must be cited:  
