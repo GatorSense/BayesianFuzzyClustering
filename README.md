@@ -1,7 +1,10 @@
 # BayesianFuzzyClustering
-Matlab implementation of the Bayesian Fuzzy Clustering algorithms.  See related paper, doi: 10.1109/TFUZZ.2014.2370676, http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6955803
+Matlab implementation of the Bayesian Fuzzy Clustering algorithms.  Please cite this code when you use it: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2638099.svg)](https://doi.org/10.5281/zenodo.2638099)
+Taylor Glenn, Alina Zare & Paul Gader. (2019, April 12). GatorSense/BayesianFuzzyClustering: Initial Release (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.2638099
 
 ***
+See related paper, doi: 10.1109/TFUZZ.2014.2370676, http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6955803
+
 NOTE: If Bayesian Fuzzy Clustering is used in any publication or presentation, the following reference must be cited:  
 <b>Glenn, T.; Zare, A.; Gader, P., "Bayesian Fuzzy Clustering," IEEE Transactions on Fuzzy Systems, vol.23, no.5, pp.1545-1561
 doi: 10.1109/TFUZZ.2014.2370676</b>
@@ -12,7 +15,7 @@ Requirements:
    Lightspeed toolbox - http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/  
    Fastfit toolbox - http://research.microsoft.com/en-us/um/people/minka/software/fastfit/  
 
- This code also uses the Matlab Fuzzy Logic Toolbox for its fcm implementation  
+ This code also uses the Matlab Fuzzy Logic Toolbox for its fcm impleSeementation  
 
 Contents:  
 
